@@ -1,0 +1,151 @@
+{
+  "Dirtmouth": {
+    "audio_filepath": "audio/Dirtmouth.mp3",
+    "image_filepath": "images/Dirtmouth.png",
+    "prompt" : "wordless female vocal, somber, atmospheric; simple piano melody in a minor key with soft strings and haunting, melancholic, vocal, beautiful, slow, soft, simple, ambient"
+  },
+  "Crossroads": {
+    "audio_filepath": "audio/Crossroads.mp3",
+    "image_filepath": "images/Crossroads.png",
+    "prompt" : "This is an instrumental piece with an ambient and melancholic style, The tempo is slow and deliberate, and the key is minor, The atmosphere is mysterious, contemplative, and deep. The primary instruments are a mournful cello playing a slow, sustaining melody, a delicate piano providing sparse, arpeggiated chords, and ethereal synth pads with long reverb and delay that fill the background, along with subtle, soft chimes that echo occasionally."
+  },
+  "Greenpath": {
+    "audio_filepath": "audio/Greenpath.mp3",
+    "image_filepath": "images/Greenpath.png",
+    "prompt" : "This is an ambient orchestral piece with a tranquil and mystical tone, The tempo is slow, and the key is minor, The primary instruments are lush strings, a gentle harp, and a flute playing a melancholic melody, with atmospheric synth pads creating a sense of ancient mystery."
+  },
+  "City_of_Tears": {
+    "audio_filepath": "audio/City_of_Tears.mp3",
+    "image_filepath": "images/City_of_Tears.png",
+    "prompt" : "This is an instrumental piece with an orchestral and ambient style, The tempo is slow, and the key is minor, The primary instruments are a string section playing soaring melodies, a piano providing gentle accompaniment, and a soft, wordless choir, A light percussion element is present, The atmosphere is melancholic, sorrowful, and beautiful."
+  },
+  "Crystal_Peak": {
+    "audio_filepath": "audio/Crystal_Peak.mp3",
+    "image_filepath": "images/Crystal_Peak.png",
+    "prompt" : "This is an instrumental piece with an ambient and mystical style, The tempo is slow and flowing, and the key is minor, The atmosphere is cavernous, shimmering, and full of wonder. The primary instruments are crystalline bell sounds like a glockenspiel and celeste playing delicate, echoing melodies, ethereal synth pads providing a vast background, and high-pitched string sections creating a sense of tension and beauty, Production elements include a large, hall-like reverb creating a sense of immense space and a clear, resonant mix emphasizing the bell tones."
+  },
+  "Fungal_Wastes": {
+    "audio_filepath": "audio/Fungal_Wastes.mp3",
+    "image_filepath": "images/Fungal_Wastes.png",
+    "prompt" : "This is a slow, minor-key instrumental with an ambient, mystical style and a cavernous, shimmering atmosphere. The arrangement features crystalline glockenspiel and celeste notes echoing over ethereal synth pads and high strings, processed with large hall reverb to create a sense of immense space."
+  },
+  "Soul_Sanctum": {
+    "audio_filepath": "audio/Soul_Sanctum.mp3",
+    "image_filepath": "images/Soul_Sanctum.png",
+    "prompt" : "This is an instrumental piece with an ambient, minimal classical style, The tempo is slow, and the key is minor, The primary instruments include a melancholic solo cello, sparse piano arpeggios, and soft synth pads layered with a faint ethereal choir, The structure is organic to evoke a serene mood, Production features cold, cavernous reverb and a spacious mix."
+  },
+  "Resting_Grounds": {
+    "audio_filepath": "audio/Resting_Grounds.mp3",
+    "image_filepath": "images/Resting_Grounds.png",
+    "prompt" : "This is an ambient instrumental piece with a dark and melancholic style, The tempo is slow, and the key is minor, The primary instruments are a lone cello playing a mournful melody supported by sustained string pads, subtle piano chords, and deep, resonant percussion, creating a mysterious and ancient atmosphere with a sense of quiet solitude."
+  },
+  "Queens_Gardens": {
+    "audio_filepath": "audio/Queens_Gardens.mp3",
+    "image_filepath": "images/Queens_Gardens.png",
+    "prompt" : "This is an instrumental piece with an ambient and new age style, The tempo is slow, and the key is major, The primary instruments are a harp playing arpeggiated patterns, a gentle flute for the melody, and soft string sections providing a lush background, Ethereal synth pads with a shimmering quality add to the magical and serene atmosphere, Production elements include a generous reverb to create a sense of space and a very delicate, balanced mix."
+  },
+  "Kingdoms_Edge": {
+    "audio_filepath": "audio/Kingdoms_Edge.mp3",
+    "image_filepath": "images/Kingdoms_Edge.png",
+    "prompt" : "This is an instrumental piece with a dark ambient and modern classical style, The tempo is slow, and the key is minor, The primary instruments are a deep cello playing a melancholic melody, a droning double bass, and ethereal synth pads with a subtle choir effect, Occasional chiming bells and soft percussion add to the mysterious and ancient atmosphere, Production elements include a large, cavernous reverb and a solemn, immersive mix."
+  },
+  "White_Palace": {
+    "audio_filepath": "audio/White_Palace.mp3",
+    "image_filepath": "images/White_Palace.png",
+    "prompt" : "This is an instrumental piece in a neo-classical ambient style, The tempo is slow and deliberate, and the key is minor, The primary instruments are a lone piano playing melancholic arpeggios and a string quartet providing a delicate, sustained backdrop, creating a dreamlike and ethereal atmosphere with a touch of tension."
+  },
+  "Radiance": {
+    "audio_filepath": "audio/Radiance.mp3",
+    "image_filepath": "images/Radiance.png",
+    "prompt" : "metal, minor key, fast tempo, thunderous cinematic percussion, blasting brass, urgent and menacing atmosphere, staccato, orchestral, electric, aggressive staccato strings, wall of sound mix with heavy compression, driving distorted guitars, intense orchestral and heavy metal fusion",
+    "comment" : "Last hollow knight song"
+  },
+    "Moss Grotto": {
+    "audio_filepath": "audio/Moss_Grotto.mp3",
+    "image_filepath": "images/Moss_Grotto.png"
+  },
+  "Bone Bottom": {
+    "audio_filepath": "audio/Bone_Bottom.mp3",
+    "image_filepath": "images/Bone_Bottom.png"
+  },
+  "The Marrow": {
+    "audio_filepath": "audio/The_Marrow.mp3",
+    "image_filepath": "images/The_Marrow.png"
+  },
+  "Deep Docks": {
+    "audio_filepath": "audio/Deep_Docks.mp3",
+    "image_filepath": "images/Deep_Docks.png"
+  },
+  "Far Fields": {
+    "audio_filepath": "audio/Far_Fields.mp3",
+    "image_filepath": "images/Far_Fields.png"
+  },
+  "Greymoor": {
+    "audio_filepath": "audio/Greymoor.mp3",
+    "image_filepath": "images/Greymoor.png"
+  },
+  "Bellhart": {
+    "audio_filepath": "audio/Bellhart.mp3",
+    "image_filepath": "images/Bellhart.png"
+  },
+  "Shellwood": {
+    "audio_filepath": "audio/Shellwood.mp3",
+    "image_filepath": "images/Shellwood.png"
+  },
+  "Hunter's Trail": {
+    "audio_filepath": "audio/Hunters_Trail.mp3",
+    "image_filepath": "images/Hunters_Trail.png"
+  },
+  "Sinner's Road": {
+    "audio_filepath": "audio/Sinners_Road.mp3",
+    "image_filepath": "images/Sinners_Road.png"
+  },
+  "Bilewater": {
+    "audio_filepath": "audio/Bilewater.mp3",
+    "image_filepath": "images/Bilewater.png"
+  },
+  "The Mist": {
+    "audio_filepath": "audio/The_Mist.mp3",
+    "image_filepath": "images/The_Mist.png"
+  },
+  "The Slab": {
+    "audio_filepath": "audio/The_Slab.mp3",
+    "image_filepath": "images/The_Slab.png"
+  },
+  "Mount Fay": {
+    "audio_filepath": "audio/Mount_Fay.mp3",
+    "image_filepath": "images/Mount_Fay.png"
+  },
+  "Blasted Steps": {
+    "audio_filepath": "audio/Blasted_Steps.mp3",
+    "image_filepath": "images/Blasted_Steps.png"
+  },
+  "Underworks": {
+    "audio_filepath": "audio/Underworks.mp3",
+    "image_filepath": "images/Underworks.png"
+  },
+  "Choral Chambers": {
+    "audio_filepath": "audio/Choral_Chambers.mp3",
+    "image_filepath": "images/Choral_Chambers.png"
+  },
+  "Cogwork Core": {
+    "audio_filepath": "audio/Cogwork_Core.mp3",
+    "image_filepath": "images/Cogwork_Core.png"
+  },
+  "Whispering Vaults": {
+    "audio_filepath": "audio/Whispering_Vaults.mp3",
+    "image_filepath": "images/Whispering_Vaults.png"
+  },
+  "High Halls": {
+    "audio_filepath": "audio/High_Halls.mp3",
+    "image_filepath": "images/High_Halls.png"
+  },
+  "Sands of Karak": {
+    "audio_filepath": "audio/Sands_of_Karak.mp3",
+    "image_filepath": "images/Sands_of_Karak.png"
+  },
+  "Lost Verdania": {
+    "audio_filepath": "audio/Lost_Verdania.mp3",
+    "image_filepath": "images/Lost_Verdania.png"
+  }
+}
